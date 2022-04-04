@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/ellen2121/ellen2121/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/msantos-rbi/msantos-rbi/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **msantos-rbi/msantos-rbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
